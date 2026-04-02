@@ -70,6 +70,16 @@ Avg Wind Speed<br>
 Avg Visibility<br>
 Avg Pressure<br>
 
+Advanced Features Used
+
+✅ Real-Time API Integration<br>
+Data updates dynamically whenever refresh is triggered.<br>
+Ensures dashboard always reflects latest weather conditions.<br>
+
+✅ Conditional Formatting (Gauge Visual)<br>
+Gauge dynamically changes based on wind direction/value.<br>
+Provides visual indication of intensity and direction changes.<br>
+
 🚀 Conclusion
 
 This dashboard demonstrates how real-time API data can be integrated into Power BI to build dynamic and interactive reporting solutions.<br>
@@ -79,4 +89,5 @@ Compare cities effectively<br>
 Understand environmental patterns<br>
 
 OUTPUT :
-<img width="1552" height="657" alt="image" src="https://github.com/user-attachments/assets/552a7114-7dd1-4ddc-81cc-221204154e67" />
+<img width="1665" height="690" alt="image" src="https://github.com/user-attachments/assets/2b98fcdf-19ae-4a50-a4be-4f5b936d7c60" />
+
